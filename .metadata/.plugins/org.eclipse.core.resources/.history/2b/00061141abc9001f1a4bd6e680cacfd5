@@ -1,0 +1,7 @@
+package com.sit.sbeans;
+
+@Component("pinfo")
+public class PersonalInfo {
+
+}
+IOCProj08-Working_with_Properties_files1

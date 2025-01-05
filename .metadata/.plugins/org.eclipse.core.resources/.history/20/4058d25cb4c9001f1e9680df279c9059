@@ -1,0 +1,18 @@
+package com.sit.sbeans;
+
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.context.annotation.PropertySource;
+import org.springframework.stereotype.Component;
+
+@Component("pinfo")
+@PropertySource(value="/info.poperties")
+public class PersonalInfo {
+
+	@Value("${per.id}")
+	private Integer pid;
+	
+	@Override
+	public String toString() {
+		return "Personal Info "+pid;
+	}
+}

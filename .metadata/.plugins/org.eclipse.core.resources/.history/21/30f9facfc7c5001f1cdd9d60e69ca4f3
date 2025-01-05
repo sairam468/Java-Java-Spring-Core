@@ -1,0 +1,12 @@
+//dependent class1
+
+package com.nt.comp; 
+
+public class Dtdc implements Courier {
+
+	@Override
+	public String deliver(int oid) {
+		
+		return null;
+	}
+}

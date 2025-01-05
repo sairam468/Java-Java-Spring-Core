@@ -1,0 +1,27 @@
+package com.sit.rest;
+
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.sit.model.Faculty;
+
+@RestController
+@RequestMapping("/faculty-api")
+public class FacultyOperationsController {
+
+	@GetMapping("/report")
+	public ResponseEntity<Faculty> showReport(){
+		Faculty fac=new Faculty();
+		fac.setFid(1001);
+		fac.setFname("Sai");
+		fac.setQlfy("BTech");
+		fac.setSubject("Java full stack");
+		fac.setAddrs("Bvrm");
+		
+		return new ResponseEntity<Faculty>(fac,HttpStatus.OK);
+		
+	}
+}

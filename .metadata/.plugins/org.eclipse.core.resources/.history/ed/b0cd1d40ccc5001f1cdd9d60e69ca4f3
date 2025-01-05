@@ -1,0 +1,17 @@
+package com.nt.test;
+
+
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+import com.nt.cfgs.AppConfig;
+import com.nt.sbeans.flipKart;
+
+public class StrategyDpTest {
+	
+	AnnotationConfigApplicationContext ctx=new AnnotationConfigApplicationContext(AppConfig.class);
+	
+	flipKart fk=ctx.getBean("flipKart",flipKart.class);
+	
+	String msg=fk.shopping(new String[] {"Shirt","Pant"}, new double[] {600.00,1200.25});
+	
+	
+}

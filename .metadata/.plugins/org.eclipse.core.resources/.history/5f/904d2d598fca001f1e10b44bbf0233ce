@@ -1,0 +1,10 @@
+package com.sit.sbeans;
+
+import org.springframework.context.annotation.ComponentScan;
+
+@Component("sf")
+public class weekdayWishMessageGenerator{
+	
+	
+
+}

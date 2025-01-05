@@ -1,0 +1,11 @@
+package com.sit.sbeans;
+
+import org.springframework.context.annotation.PropertySource;
+import org.springframework.stereotype.Component;
+
+@Component("pinfo")
+@PropertySource(value="com/sit/commons/Info.poperties")
+public class PersonalInfo {
+
+	
+}

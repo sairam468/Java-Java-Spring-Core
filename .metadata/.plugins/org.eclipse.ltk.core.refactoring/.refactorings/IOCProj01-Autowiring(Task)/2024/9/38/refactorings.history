@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.nt.sbeans&apos; to &apos;IOCProj3-StrategyDP03-Spring/src/main/java/com.nt.sbeans&apos;&#x0D;&#x0A;- Original project: &apos;IOCProj02-Autowiring(Task)&apos;&#x0D;&#x0A;- Destination element: &apos;IOCProj3-StrategyDP03-Spring/src/main/java/com.nt.sbeans&apos;&#x0D;&#x0A;- Original element: &apos;IOCProj02-Autowiring(Task)/src/com.nt.sbeans&apos;" description="Copy package" destination="=IOCProj3-StrategyDP03-Spring/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.nt.sbeans" element1="/src&lt;com.nt.sbeans" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1726548109965" version="1.0"/>
+</session>
