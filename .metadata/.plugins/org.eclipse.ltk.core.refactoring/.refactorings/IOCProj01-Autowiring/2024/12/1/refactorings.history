@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;AppConfig.java&apos; to &apos;IOCProj6-SingletonScope-SpringCore/src/main/java/com.sit.config&apos;&#x0D;&#x0A;- Original project: &apos;IOCProj01-Autowiring&apos;&#x0D;&#x0A;- Destination element: &apos;IOCProj6-SingletonScope-SpringCore/src/main/java/com.sit.config&apos;&#x0D;&#x0A;- Original element: &apos;com.nt.config.AppConfig.java&apos;" description="Copy compilation unit" destination="=IOCProj6-SingletonScope-SpringCore/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.sit.config" element1="/src&lt;com.nt.config{AppConfig.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1735623505421" units="1" version="1.0"/>
-</session>

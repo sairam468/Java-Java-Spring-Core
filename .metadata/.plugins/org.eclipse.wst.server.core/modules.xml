@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<modules>
-  <module moduleId="org.eclipse.jst.jee.server:BootRestProj1-FirstRestAPI" serverId="Tomcat v10.1 Server at localhost"/>
-  <module moduleId="org.eclipse.jst.jee.server:BootRestProj3-RestAPI-SendingJSONResponse" serverId="Tomcat v10.1 Server at localhost"/>
-  <module moduleId="org.eclipse.jst.jee.server:BootRestProj2-RestAPI-DifferentEndPoints" serverId="Tomcat v10.1 Server at localhost"/>
-  <module moduleId="org.eclipse.jst.jee.server:BootMVCProj1-FirstApp" serverId="Tomcat v10.1 Server at localhost"/>
-  <module moduleId="org.eclipse.jst.jee.server:BootMVCProj-MiniProject1-CRUDOperations" serverId="Tomcat v10.1 Server at localhost"/>
-</modules>

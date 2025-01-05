@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;MVC_App_BootProj02-LayeredApplication&apos;" deleteContents="true" description="Delete resource &apos;MVC_App_BootProj02-LayeredApplication&apos;" element1="/MVC_App_BootProj02-LayeredApplication" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1728899952406"/>&#x0A;<refactoring comment="Delete resource &apos;sai_Mysql&apos;" deleteContents="true" description="Delete resource &apos;sai_Mysql&apos;" element1="/sai_Mysql" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1728990759244"/>
-</session>

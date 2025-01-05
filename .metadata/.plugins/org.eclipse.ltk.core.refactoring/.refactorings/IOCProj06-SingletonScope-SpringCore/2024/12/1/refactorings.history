@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename package &apos;com.nt.test&apos; to &apos;com.sit.test&apos;&#x0D;&#x0A;- Original project: &apos;IOCProj5-SingletonScope-SpringCore(Maven)&apos;&#x0D;&#x0A;- Original element: &apos;IOCProj5-SingletonScope-SpringCore(Maven)/src/main/java/com.nt.test&apos;&#x0D;&#x0A;- Renamed element: &apos;IOCProj5-SingletonScope-SpringCore(Maven)/src/main/java/com.sit.test&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.nt.test&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.nt.test" name="com.sit.test" qualified="false" references="true" stamp="1735622064275" textual="false" version="1.0"/>
-</session>
